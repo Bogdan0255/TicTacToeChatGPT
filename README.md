@@ -29,7 +29,7 @@ Built With
 
 Authors
 
-    Your Name - Initial work
+    Bogdan Nedelcu  using ChatGPT - Initial work
 
 License
 
